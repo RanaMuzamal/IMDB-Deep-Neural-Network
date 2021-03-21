@@ -1,0 +1,69 @@
+An overview of Deep Learning, including representation learning, families of neural networks and their applications, a first look inside a deep neural network, and many code examples and concepts from TensorFlow. This talk is part of a ML speaker series at X we recorded at home. You can find all the links from this video below. I hope this was helpful, and I'm looking forward to seeing you when we can get back to doing events in person. Thanks everyone!
+
+Chapters:
+0:00​ - Intro and outline
+1:42​ - TensorFlow.js demos + discussion
+3:58​ - AI vs ML vs DL
+7:55​ - What’s representation learning?
+8:40​ - A cartoon neural network (more on this later)
+9:20​ - What features does a network see?
+10:47​ - The “deep” in “deep learning”
+12:48​ - Why tree-based models are still important
+13:38​ - How your workflow changes with DL
+14:02​ - A couple illustrative code examples
+17:59​ - What’s a hyperparameter?
+19:44​ - The skills that are important in ML
+20:48​ - An example of applied work in healthcare
+21:58​ - Families of neural networks + applications
+28:55​ - Encoder-decoders + more on representation learning
+32:45​ - Families of neural networks continued
+35:50​ - Are neural networks opaque?
+38:29​ - Building up from a neuron to a neural network
+49:11​ - A demo of representation learning in TF Playground
+53:24​ - Importance of activation functions
+54:36​ - What’s a neural network library?
+58:43​ - Overfitting and underfitting
+1:02:38​ - Autoencoders (and anomaly detection) screencast and demo
+1:12:13​ - Book recommendations
+
+Here are three helpful classes you can check out to learn more:
+
+Intro to Deep Learning from MIT → http://goo.gle/3sPj8To​ 
+MIT Deep Learning and Artificial Intelligence Lectures → https://goo.gle/3qh7H54​ 
+Convolutional Neural Networks for Visual Recognition from Stanford → http://goo.gle/3bbC34I​
+
+And here are all the links to demos and code from the video, in the order they appeared:
+
+Face and hand tracking demos → http://goo.gle/2WTCwSc​ 
+Teachable machine demo → https://goo.gle/3bSCzCi​ 
+What features does a network see? → http://goo.gle/3e2zpA5​ 
+DeepDream tutorials → http://goo.gle/3bYIBTp​ and http://goo.gle/384B6JC​ 
+Hyperparameter tuning with Keras Tuner → http://goo.gle/2InBK7J​ 
+Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs → http://goo.gle/309pMY5​ 
+Linear (and deep) regression tutorial → http://goo.gle/3sKxkN7​ 
+Image classification with a CNN tutorial → http://goo.gle/3qdD2Wb​ 
+Audio recognition tutorial → http://goo.gle/3kFpl1j​ 
+Transfer learning tutorial → http://goo.gle/3bV7D60​ 
+RNN tutorial (sentiment analysis / text classification) → http://goo.gle/3bVM1X7​ 
+RNN tutorial (text generation with Shakespeare) → http://goo.gle/3qmnrnz​ 
+Timeseries forecasting tutorial (weather) → http://goo.gle/3ecdYg9​ 
+Sketch RNN demo (draw together with a neural network) → http://goo.gle/3bbHTTy​ 
+Machine translation tutorial (English to Spanish) → http://goo.gle/3e7IJme​ 
+Image captioning tutorial → http://goo.gle/3sKFNQz​ 
+Autoencoders and anomaly detection tutorial → http://goo.gle/30aD0UA​ 
+GANs tutorial (Pix2Pix) → http://goo.gle/3kI1ZrB​ 
+A Deep Learning Approach to Antibiotic Discovery → https://goo.gle/3e7ivQD​ 
+Integrated gradients tutorial → http://goo.gle/2PxfRtq​ and http://goo.gle/3sE0bmq​ 
+TensorFlow Playground demos → http://goo.gle/2Px6rhB​ 
+Introduction to gradients and automatic differentiation → http://goo.gle/3sFVybo​ 
+Basic image classification tutorial → http://goo.gle/3c2AF3o​ 
+Overfitting and underfitting tutorial → http://goo.gle/3cdA9Qv​ 
+Keras early stopping callback → http://goo.gle/308XQUj​ 
+Interactive autoencoders demo (anomaly detection) → http://goo.gle/3kPfW7q​ 
+Deep Learning with Python, Second Edition → http://goo.gle/3qcQ5Y5​ 
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition →  http://goo.gle/386DKP4​ 
+Deep Learning book → http://goo.gle/3c2VQmd​
+
+Find Josh on Twitter → https://goo.gle/308Ve8P​  
+
+Subscribe to TensorFlow → https://goo.gle/TensorFlow
